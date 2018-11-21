@@ -1,0 +1,1 @@
+Compile with `mvn clean compile assembly:single`, then run with `java -jar <JAR_FILE_NAME> <SPREADSHEET_FILE_NAME>`.
